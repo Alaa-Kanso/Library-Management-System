@@ -13,7 +13,7 @@ public class Database {
     Statement statement ;
 
     public Database() throws SQLException {
-        this.connection= DriverManager.getConnection(String.format("jdbc:mysql://localhost:3306/%s", "guiprroject"), "root", "");
+        this.connection= DriverManager.getConnection(String.format("jdbc:mysql://localhost:3306/%s", "guiprroject"), "USERNAME_HERE", "PASSWORD_HERE");
         this.statement = this.connection.createStatement();
     }
     public void createTables() throws SQLException{
