@@ -11,10 +11,10 @@ This project is a library management system that allows users, librarians, and a
   <li><a href="#librarian">Librarian</a></li>
   <li><a href="#admin">Admin</a></li>
 </ul>
-<li><a href"#installation">Installation</a></li>
+<li><a href="#installation">Installation</a></li>
 <ul>
   <li><a href="#prereq">Prerequisites</a></li>
-  <li></a href="#setup">Setup</a></li>
+  <li><a href="#setup">Setup</a></li>
 </ul>
 <li><a href="#usage">Usage</a></li>
 <li><a href="credits">Credits</a></li>
