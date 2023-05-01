@@ -88,7 +88,7 @@ This project is a library management system that allows users, librarians, and a
 
   If you log in as an admin, you can add new librarians, view details of all librarians in the system, and remove librarians from the system.
 </div>
-<div id="credit">
+<div id="credits">
   <h2>Credits</h2>
   This project was created by:
   <ul>
