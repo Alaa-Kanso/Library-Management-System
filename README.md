@@ -17,7 +17,7 @@ This project is a library management system that allows users, librarians, and a
   <li><a href="#setup">Setup</a></li>
 </ul>
 <li><a href="#usage">Usage</a></li>
-<li><a href="credits">Credits</a></li>
+<li><a href="#credits">Credits</a></li>
 
 <div id="features">
   <h2>Features</h2>
